@@ -1,8 +1,11 @@
 === Skype Status Multisite  Widget ===
 Contributors: Skype Status Multisite  Widget
 Tags: skype, skype button, online, status, online status, widget, widgets, post, posts skype-button
-Version: 1.0.0
-Author: WolfTheme
+Requires at least: 3.0.1
+Tested up to: 4.1
+Stable tag: 4.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.htm
 
 Free, unlimited, highly customizable and accessible! Skype buttons through widgets.
 
