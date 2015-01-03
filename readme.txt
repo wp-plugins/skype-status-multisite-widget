@@ -3,6 +3,9 @@ Contributors: Skype Status Multisite  Widget
 Tags: skype, skype button, online, status, online status, widget, widgets, post, posts skype-button
 Version: 1.0.0
 Author: WolfTheme
+
+Free, unlimited, highly customizable and accessible! Skype buttons through widgets.
+
 == Description ==
 The new Microsoft Live accounts (using "live:", "@hotmail.com" or "@live.com" in the Skype ID) are not supported due to lack of willingness by Microsoft to fix a parse error bug on the Skype online status server.
 
